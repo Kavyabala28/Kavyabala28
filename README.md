@@ -3,15 +3,15 @@
 <p align="center">I have over two years of experience as a Senior Systems Associate at Infosys Limited. I am skilled in functional, regression, and user acceptance testing (UAT). Currently, I am expanding my expertise into Automation Testing. 
 I strongly believe in the principle of #SharingIsCaring and am here to share my knowledge and insights on Automation.</p>
 
-- * I’m currently upskilling my testing expertise through Automation Testing.
+-  I’m currently upskilling my testing expertise through Automation Testing.
 
-- * Automation Tool : **Selenium**
+-  Automation Tool : **Selenium**
 
-- * Programming Language : **Java**
+-  Programming Language : **Java**
 
-- * Framework : **TestNG, BDD Cucumber, Data Driven Testing**
+-  Framework : **TestNG, BDD Cucumber, Data Driven Testing**
 
-- * Design Pattern : **Page Object Model**
+-  Design Pattern : **Page Object Model**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
