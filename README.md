@@ -3,8 +3,6 @@
 <p align="center">I have over two years of experience as a Senior Systems Associate at Infosys Limited. I am skilled in functional, regression, and user acceptance testing (UAT). Currently, I am expanding my expertise into Automation Testing. 
 I strongly believe in the principle of #SharingIsCaring and am here to share my knowledge and insights on Automation.</p>
 
--  I’m currently upskilling my testing expertise through Automation Testing.
-
 -  Automation Tool : **Selenium**
 
 -  Programming Language : **Java**
