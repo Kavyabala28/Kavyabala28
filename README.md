@@ -1,24 +1,73 @@
-![Header](https://media.licdn.com/dms/image/C5612AQEH40J1YfXKCw/article-cover_image-shrink_600_2000/0/1530798575533?e=2147483647&v=beta&t=sqnSWevZdABdb_0dIgwYKN8oqfPm-VBwr-EU5wiuAFE)
-<h2>Hi There 👋 </h2>
-<p>Welcome to my Github Profile.</p>
-<p align="center">I have over two years of experience as a Senior Systems Associate at Infosys Limited. I am skilled in functional, regression, and user acceptance testing (UAT). Currently, I am expanding my expertise into Automation Testing. 
-I strongly believe in the principle of #SharingIsCaring and am here to share my knowledge and insights on Automation.</p>
+<br clear="both">
 
--  Automation Tool : **Selenium**
+<h3 align="center">Hi 👋! My name is Kavya.</h3>
 
--  Programming Language : **Java**
+###
 
--  Framework : **TestNG, BDD Cucumber, Data Driven Testing**
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966"  />
+</div>
 
--  Design Pattern : **Page Object Model**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kavya-bala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavya-bala/" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left">I bring over two years of experience as a Software Tester, with a strong background in functional, regression, and user acceptance testing (UAT). I am currently expanding my expertise into automation testing to streamline testing processes and improve test coverage.</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyabala28&" alt="kavyabala28" /></p>
+###
+**<p align="left">Technologies Used :<br>**
+- Programming Language : Java<br>
+- Automation Framework : Selenium WebDriver<br>
+- Test Runner : TestNG<br>
+- Design Pattern : Page Object Model (POM)<br>
+- Reporting : Extent Reports<br>
+- BDD : Cucumber<br>
+- Data Integration : Apache POI for Excel</p>
 
+###
+
+<h3 align="left">Tech Stack :</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+</div>
+
+###
+
+<h3 align="left">Connect with me :</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kavya-bala" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="balakrishnankavya17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kavyabala28&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Kavyabala28&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavyabala28&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+
+###
+
+<br clear="both">
