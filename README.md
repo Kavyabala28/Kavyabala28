@@ -12,25 +12,15 @@
 
 <br clear="both">
 
-<p align="left">I bring over two years of experience as a Software Tester, with a strong background in functional, regression, and user acceptance testing (UAT). I am currently expanding my expertise into automation testing to streamline testing processes and improve test coverage.</p>
-
-###
-**<p align="left">Technologies Used :<br>**
-- Programming Language : Java<br>
-- Automation Framework : Selenium WebDriver<br>
-- Test Runner : TestNG<br>
-- Design Pattern : Page Object Model (POM)<br>
-- Reporting : Extent Reports<br>
-- BDD : Cucumber<br>
-- Data Integration : Apache POI for Excel</p>
+<p align="center">I bring over two years of experience as a Software Tester, with a strong background in functional, regression, and user acceptance testing (UAT). I am currently expanding my expertise into automation testing to streamline testing processes and improve test coverage.</p>
 
 ###
 
-<h3 align="left">Tech Stack :</h3>
+<h3 align="center">Tech Stack :</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
@@ -42,15 +32,21 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
 </div>
 
 ###
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="center">Connect with me :</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/kavya-bala" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -67,7 +63,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavyabala28&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
 ###
-
-<br clear="both">
