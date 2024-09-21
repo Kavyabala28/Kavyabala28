@@ -3,9 +3,8 @@
 <h3 align="center">Hi 👋! My name is Kavya.</h3>
 
 ###
-
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966"  />
+  <img height="200" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif"  />
 </div>
 
 ###
