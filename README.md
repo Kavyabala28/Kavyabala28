@@ -1,5 +1,5 @@
 <br clear="both">
-<h3 align="center">Hi 👋! My name is Kavya.</h3>
+<h3 align="center">Hi 👋! Kavya Here. </h3>
 
 <div align="center">
   <img height="180" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif"  />
