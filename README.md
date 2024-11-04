@@ -1,13 +1,22 @@
 <br clear="both">
-<h3 align="center">Hi 👋! Kavya Here. </h3>
+
+<h3 align="center">Hi 👋! Kavya Here.</h3>
+
+###
+
+<br clear="both">
 
 <div align="center">
-  <img height="180" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif"  />
+  <img height="190" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif"  />
 </div>
 
 <br clear="both">
 
 <p align="center">I bring over two years of experience as a Software Tester, with a strong background in functional, regression, and user acceptance testing (UAT). I am currently expanding my expertise into automation testing to streamline testing processes and improve test coverage.</p>
+
+###
+
+<p align="center">"I am currently expanding my automation testing skills by learning <mark> Rest Assured </mark>, focusing on API testing for RESTful web services."</p>
 
 ###
 
@@ -33,6 +42,10 @@
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
 </div>
 
 ###
